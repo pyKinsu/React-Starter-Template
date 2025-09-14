@@ -1,0 +1,52 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple React starter template with React 18, React Router, and Lucide icons.",
+  "author": "Kinsu <pykinsu@outlook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyKinsu/react-starter-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pyKinsu/react-starter-template/issues"
+  },
+  "dependencies": {
+    "lucide-react": "^0.276.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "contributors": [
+    {
+      "name": "Kinsu (@pykinsu)",
+      "role": "Project Maintainer"
+    }
+  ]
+}
